@@ -12,8 +12,8 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['94767939688','94767939688'] 
-global.prems = ['94767939688', '94767939688', '94767939688']
+global.mods = ['JUST DM '] 
+global.prems = ['JUST DM']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
-global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.botname = 'ADMIN BOT☺️'
+global.premium = 'Haibahatishi😂'
+global.packname = 'ADMIN BOT☺️ Created By Charles Admin 🇰🇪' 
+global.author = 'Charles Admin 🇰🇪' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
@@ -59,13 +59,13 @@ global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
-global.dmoji = '🤣'
+global.wait = '*😁 _unangoja Bro Uploading by 🤖 Charles Admin 🤖..._*'
+global.rwait = '‼️'
+global.dmoji = '😂'
 global.done = '👍'
 global.error = '👎' 
 global.xmoji = '🫶' 
-
+global.smile ='😁'
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
 
